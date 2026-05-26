@@ -11,3 +11,4 @@ wheels/
 
 # Bootdev files
 game_state.jsonl
+game_events.jsonl
